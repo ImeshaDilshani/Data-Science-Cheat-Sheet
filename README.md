@@ -6,6 +6,9 @@ In this repository, we delve into the science behind data visualization techniqu
 
 ## Content
 - Heatmaps: Explore the distribution of data using heatmaps in Python with Google Colab. Gain insights into your data and enhance your visualization skills.
+  
+ ![what's data frames (Instagram Post) (4)](https://github.com/ImeshaDilshani/Science-of-Data-Visualization/assets/93858302/2578682a-ca39-4af8-a6c3-021bb3c6c1bb)
+
 
 ## How to Use
 To get started, simply navigate to the respective directories for each topic of interest. Each directory contains Python scripts, Jupyter notebooks, or Google Colab notebooks with explanations and examples. You can run the code snippets provided to see the visualization in action and further customize them to suit your needs.
