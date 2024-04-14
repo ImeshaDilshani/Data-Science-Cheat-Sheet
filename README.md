@@ -1,1 +1,1 @@
-# Data-Science-Cheat-Sheet
+# Science of Data Visualization
